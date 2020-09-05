@@ -1,0 +1,5 @@
+package com.livraria.apirest.config;
+
+public class SwaggerConfig {
+
+}
